@@ -1,4 +1,6 @@
 # Machine Learning Projects in Python
+
+**This is an open source project to implement ML Projects and Competitions using Python.**
 ========
 Contact: Mr. Eslam Fouad
 
