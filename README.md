@@ -1,6 +1,7 @@
-PythonML
+# Machine Learning Projects in Python
 ========
 Contact: Mr. Eslam Fouad
+
 
 
 ## Content 
